@@ -35,7 +35,7 @@ The dashboard consists of three main pages:
 - Clean UI/UX design with custom themes
 
 ## 📁 File Included
-- `Hospital_Dashboard.pbix` – Power BI report file
+- `Hospital.pbix` – Power BI report file
 
 ## 👨‍💻 Created By
 **Pradyut Sahoo**
